@@ -1,16 +1,24 @@
 Requirements List
-1.	Allows one user to have multiple banks tracked
-2.	Allows user login
-3.	Each user has one username and password
-4.	Records user credentials
-5.	There are three transaction types: debit card, deposit, direct payment
-6.	Each transaction has one type
-7.	Each transaction has a date
-8.	Each transaction has a cost
-9.	Each transaction has one bank
-10.	Each transaction has one other participant
-11.	Each bank can have any number of transactions
-12.	Each user can have any number of transactions
-13.	Each transaction can only have one user
-14.	Each merchant may or may not have a location
-15.	Each merchant has a name
+
+Allows one user to have multiple banks tracked
+Allows user login
+Each user has a name
+A name consists of a first and last name
+Each user has a phone number
+Each phone number has one user
+Each user has one email
+Each email has one user
+Each user has one username and password
+Records user credentials
+There are three transaction types: debit card, deposit, direct payment
+Each transaction has one type
+Each transaction has a date
+Each transaction has a cost
+Each transaction has one bank
+Each transaction has one other participant
+Each bank can have any number of transactions
+Each user can have any number of transactions
+Each transaction can only have one user
+Each merchant may or may not have a location
+Each merchant has a name
+A merchant name does not necessarily consist of a first and last name
