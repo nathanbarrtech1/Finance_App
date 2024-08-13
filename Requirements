@@ -23,7 +23,7 @@ Each transaction can only have one user
 Each merchant may or may not have a location
 Each merchant has a name
 A merchant name does not necessarily consist of a first and last name
-Each bank has an account number
 Each bank has a login consisting of a username and password
-Each bank account has a balance, an account number, a routing number, and an interest rate
-Each bank has an asset report
+Each bank account has a balance, an account number, and a routing number
+Each bank has an asset report (unimplemented)
+Each bank has aa country code
