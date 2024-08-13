@@ -11,8 +11,12 @@ Stage 3: Plaid Integration or other software to access banks?
 
 Stage 4: Create a web/mobile app for the user to access the transactions
 
-Stage 5: Create Budgets: Food, bills, rent, etc
+Stage 5: Asset Report management
 
-Stage 6: TBA
+Stage 6: Create Budgets: Food, bills, rent, etc
+
+Stage 7: Integrate Zelle
+
+Stage 8: TBA
 
 Current stage: 1
