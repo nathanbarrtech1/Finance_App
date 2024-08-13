@@ -9,6 +9,7 @@ Each phone number has one user
 Each user has one email
 Each email has one user
 Each user has one username and password
+Each user can have any number of banks
 Records user credentials
 There are three transaction types: debit card, deposit, direct payment
 Each transaction has one type
